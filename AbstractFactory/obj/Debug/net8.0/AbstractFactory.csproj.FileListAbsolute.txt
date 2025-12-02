@@ -1,0 +1,14 @@
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfo.cs
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.runtimeconfig.json
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.dll
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.pdb
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.dll
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/refint/AbstractFactory.dll
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.pdb
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.genruntimeconfig.cache
+/Users/valeriapotehina/DesignPatterns/AbstractFactory/obj/Debug/net8.0/ref/AbstractFactory.dll

@@ -1,0 +1,14 @@
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfoInputs.cache
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfo.cs
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/valeriapotehina/DesignPatterns/Mediator/bin/Debug/net8.0/Mediator
+/Users/valeriapotehina/DesignPatterns/Mediator/bin/Debug/net8.0/Mediator.deps.json
+/Users/valeriapotehina/DesignPatterns/Mediator/bin/Debug/net8.0/Mediator.runtimeconfig.json
+/Users/valeriapotehina/DesignPatterns/Mediator/bin/Debug/net8.0/Mediator.dll
+/Users/valeriapotehina/DesignPatterns/Mediator/bin/Debug/net8.0/Mediator.pdb
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.dll
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/refint/Mediator.dll
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.pdb
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/Mediator.genruntimeconfig.cache
+/Users/valeriapotehina/DesignPatterns/Mediator/obj/Debug/net8.0/ref/Mediator.dll
